@@ -10,5 +10,9 @@ https://leedakyeong.tistory.com/entry/Anomaly-Detection-by-Auto-Encoder
 
 # MVTecAD
 MVTec AD is a dataset for benchmarking anomaly detection methods with a focus on industrial inspection.
+
 https://paperswithcode.com/paper/towards-total-recall-in-industrial-anomalos
 MVTecAD에서 sota 달성한 모델들
+
+# 참고자료
+https://hoya012.github.io/blog/anomaly-detection-overview-1/
